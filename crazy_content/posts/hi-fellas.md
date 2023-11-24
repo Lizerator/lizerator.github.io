@@ -1,7 +1,7 @@
 +++
 title = 'Hi Fellas'
 date = 2023-11-23T21:04:11-08:00
-draft = true
+draft = false
 +++
 
-*fellas hello!*
+*this is a test*
