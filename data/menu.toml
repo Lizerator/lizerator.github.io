@@ -1,0 +1,21 @@
+[[entries]]
+title = "READ ME!"
+
+  [[entries.entries]]
+  title = "this is my (as in me, liz) blog, i pretty much just got really bored and decided to set this up"
+
+  [[entries.entries]]
+  title = "i will try to update this at least once a day, so check back in to see if that is at all true"
+
+  [[entries.entries]]
+  title = "there isn't comments on here so just email me any questions or comments at <b>lizorlizerator@gmail.com</b> and i'll make sure to answer them at the bottom of the next post!"
+
+[[entries]]
+title = "tomes of infinite knowledge"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
