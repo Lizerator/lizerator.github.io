@@ -1,7 +1,7 @@
 +++
 title = 'Touring Sarah Lawrence'
 date = 2023-11-24T10:55:39-08:00
-draft = true
+draft = false
 +++
 
 Waking up this morning was so god damn hard. I didn't fall asleep until like 3am but had to wake up at 9 :(. I was able to get my sleepy ass up and ready to meet my family downstairs and leave. We rode the subway to grand central (50st 1 train to Times Sq, Times Sq 7 train to Grand Central) and then took the North Metro Rail to Bronxville to visit Sarah Lawrence.
