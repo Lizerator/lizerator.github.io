@@ -1,0 +1,7 @@
+baseURL = 'https://lizerator.github.io/'
+languageCode = 'en-us'
+title = 'lizblog'
+theme = 'hugo-bearblog'
+
+[permalinks]
+  docs = "/blog/"
