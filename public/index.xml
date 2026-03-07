@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Perfect Hotdog Blog</title>
-    <link>http://localhost:41111/</link>
-    <description>Recent content in Home on Perfect Hotdog Blog</description>
+    <title>Home on Hotblog: The Perfect Hotdog Blog</title>
+    <link>http://localhost:38495/</link>
+    <description>Recent content in Home on Hotblog: The Perfect Hotdog Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2026, Liz Scott.</copyright>
     <lastBuildDate>Fri, 06 Mar 2026 19:39:27 -0500</lastBuildDate>
-    <atom:link href="http://localhost:41111/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:38495/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Journey Thus Far</title>
-      <link>http://localhost:41111/the-journey-thus-far/</link>
+      <link>http://localhost:38495/the-journey-thus-far/</link>
       <pubDate>Fri, 06 Mar 2026 19:39:27 -0500</pubDate>
-      <guid>http://localhost:41111/the-journey-thus-far/</guid>
+      <guid>http://localhost:38495/the-journey-thus-far/</guid>
       <description></description>
     </item>
   </channel>

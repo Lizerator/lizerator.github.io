@@ -5,7 +5,7 @@ weight = 1
 +++
 
 # When I was born god spoke to me:
-In late February hometown friends visited me at school. On the last evening, while part of our group spent time drunkenly playing poker, me and William spent half an hour making hotdogs. In conversation he helped me remember that as a baby god spoke to me:
+In late February friends visited me at school. On the last evening, while part of our group spent time drunkenly playing poker, me and William spent half an hour making hotdogs. In conversation he helped me remember that as a baby god spoke to me:
 
 ## "Liz, you will be born with a gift and a mission: to create the perfect hotdog. You will also be born with the following curse: being born too late to open a millennial hotdog restaurant." (This would be the perfect place to serve such a dog)
 
