@@ -45,14 +45,12 @@ Me and Eliza made a couple dogs which helped me get back into the groove after f
 
 **Sunday, the 24th:**
 
-We added BOTH a slice of a pickle cut bitwise AND pickled cabbage. Zinny insisted we test wether or not ketchup would work well on the dog, a sentiment I knew to be completely absurd. She made the point that in order to definitively say that we had to try it once so I conceded. It was awful. Huge wet mess those dogs were. In the end she was right about having to try it but that doesn't wipe the disgusting memory from my head.
+We added BOTH a slice of a pickle cut bitwise AND pickled cabbage. An unnamed associate insisted we test wether or not ketchup would work well on the dog, a sentiment I knew to be completely absurd. She made the point that in order to definitively say that we had to try it once so I conceded. It was awful. Huge wet mess those dogs were. In the end she was right about having to try it but that doesn't wipe the disgusting memory from my head.
 {{<youtube KOp7kPmPYc8>}}
 
 **Monday, the 25th:**
 
 Me, Bella, and Slick got back together to make some dogs while Bella made angry comments. This dog was good but uneventful.
-
-Me and Zinny had to have a heart to heart... we were both feeling ill from the amount of hotdogs we had been eating and decided to go on a break. Though my days became kind of meaningless we passed the time playing Mario Kart, browsing Reddit, and watching movies. 
 
 The last hotdog up to this point was on March 2nd, a full five days after the previous. After having the fresh dog the week before we decided that a boiled dog with an untoasted bun was the way to go. We also tried crushed up salt an vinegar chips as a topping. The dog's ingredients were, from bottom to top: sauce, onion, dog, cabbage, ginger, pickle, pickled cabbage, and chips. We meant to do lemon juice but we totally forgot. There was far too many toppings on this dog and it made for a very weird mouth feel. The top of the bun also became soggy enough that I flat out refused to finish mine.
 {{<youtube XNwGbK8Mpjk>}}
