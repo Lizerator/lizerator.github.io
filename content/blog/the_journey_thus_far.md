@@ -20,7 +20,6 @@ I had to go to the store. Two new ingredients entered the mindspace, first, dice
 **Thursday, the 19th:**
 
 Katie came over for a night of horsing around. After telling her about my hotdog quest she was adamant that we had to work on it that evening. First we hit the store as we were swapping two ingredients: instead of a potato bun: a new england style bun, and instead of sweet relish: pickles sliced lengthwise. Before leaving two of her roommates requested dogs of their own to try. Me and Katie then cooked up four dogs, one for each of us. While watching Portlandia we ate and critiqued the dog. Swapping the sweet relish for pickle was a good move, but an essential umami flavor was missing. At midnight we delivered the dogs to her roommates, who loved their dogs so much they ate them standing in their foyer. That night Katie became the second accomplice.
-[insert image here]
 
 **Friday, the 20th:**
 
@@ -30,7 +29,6 @@ I expected it to be a standard day for the hotdog project - little did I know on
 **Saturday, the 21st:**
 
 The next day me and Zinny came together once again to work on the dog and add three crucial ingredients: lemon juice, mayo, and msg. The recipe then stood as ginger, Old Bay, mayo, msg, lemon juice, dog, onion, and pickle. This became the base for what is now known as our general working recipe.
-[imbed video and image here]
 That evening Bella requested that I make her a plain cut up hotdog with ketchup. During the cooking process I accidentally set off the fire alarm and the whole building had to evacuate during a blizzard. These innocent people became the first victims of the hotdog project.
 {{<youtube Idr7eAQGdOs>}}
 
