@@ -4,8 +4,7 @@ menu = "main"
 weight = 1
 +++
 
-## [OUR NEWEST POST!](/spring-break/)
-
+## [OUR NEWEST POST!]({{< relref "spring-break.md">}})
 # When I was born god spoke to me:
 In late February friends visited me at school. On the last evening, while part of our group spent time drunkenly playing poker, me and William spent half an hour making hotdogs. In conversation he helped me remember that as a baby god spoke to me:
 
